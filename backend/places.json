@@ -1,0 +1,32 @@
+[
+{
+"name":"Sinhagad Fort",
+"crowd":"Medium",
+"hidden":false,
+"nearby":["Khadakwasla Dam","Panshet Dam"],
+"images":[
+"https://upload.wikimedia.org/wikipedia/commons/9/9a/Sinhagad_Fort.jpg"
+]
+},
+
+{
+"name":"Taj Mahal",
+"crowd":"High",
+"hidden":false,
+"nearby":["Agra Fort","Mehtab Bagh"],
+"images":[
+"https://upload.wikimedia.org/wikipedia/commons/d/da/Taj-Mahal.jpg"
+]
+},
+
+{
+"name":"Hidden Temple",
+"crowd":"Low",
+"hidden":true,
+"nearby":["Village Lake"],
+"images":[
+"https://upload.wikimedia.org/wikipedia/commons/a/a3/India_Gate.jpg"
+]
+}
+
+]
